@@ -1,9 +1,8 @@
-# Product Name
-> Short blurb about what your product does.
+# Design Patterns
 
 Content:
 * Observer Pattern
-* Decorator Pattern
+* [Decorator Pattern](https://github.com/TheBestTvarynka/DesignPatterns/DesignPatterns/DecoratorPattern)
 
 ## Meta
 
