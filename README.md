@@ -10,6 +10,7 @@ Content:
 Pavlo Myroniyk – [@TheBestTvarynka](https://github.com/TheBestTvarynka) – [pspos.developqkation@gmail.com](mailto:pspos.developqkation@gmail.com)
 
 Created for education purposes.
+Many examples taked from [this book](https://www.amazon.com/gp/product/0596007124?tag=chrokh01-20).
 
 ## Contributing
 
