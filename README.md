@@ -2,7 +2,8 @@
 
 Content:
 * Observer Pattern
-* [Decorator Pattern](https://github.com/TheBestTvarynka/DesignPatterns/DesignPatterns/DecoratorPattern)
+* [Decorator Pattern](https://github.com/TheBestTvarynka/DesignPatterns/tree/master/DesignPatterns/DecoratorPattern)
+* [Factory Pattern](https://github.com/TheBestTvarynka/DesignPatterns/tree/master/DesignPatterns/FactoryPattern)
 
 ## Meta
 
