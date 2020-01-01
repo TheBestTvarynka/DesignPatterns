@@ -4,7 +4,8 @@ Content:
 * Observer Pattern
 * [Decorator Pattern](https://github.com/TheBestTvarynka/DesignPatterns/tree/master/DesignPatterns/DecoratorPattern)
 * [Factory Pattern](https://github.com/TheBestTvarynka/DesignPatterns/tree/master/DesignPatterns/FactoryPattern)
-* [Singleton Pattern](https://github.com/TheBestTvarynka/DesignPatterns/tree/master/SingletonPattern/FactoryPattern)
+* [Singleton Pattern](https://github.com/TheBestTvarynka/DesignPatterns/tree/master/DesignPatterns/SingletonPattern)
+
 
 ## Meta
 
